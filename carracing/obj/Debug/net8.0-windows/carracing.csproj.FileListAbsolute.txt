@@ -1,0 +1,67 @@
+D:\carracing\carracing\bin\Debug\net8.0-windows\carracing.exe
+D:\carracing\carracing\bin\Debug\net8.0-windows\carracing.deps.json
+D:\carracing\carracing\bin\Debug\net8.0-windows\carracing.runtimeconfig.json
+D:\carracing\carracing\bin\Debug\net8.0-windows\carracing.dll
+D:\carracing\carracing\bin\Debug\net8.0-windows\carracing.pdb
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.Form1.resources
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.GenerateResource.cache
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.GeneratedMSBuildEditorConfig.editorconfig
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.AssemblyInfoInputs.cache
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.AssemblyInfo.cs
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.CoreCompileInputs.cache
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.dll
+D:\carracing\carracing\obj\Debug\net8.0-windows\refint\carracing.dll
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.pdb
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.genruntimeconfig.cache
+D:\carracing\carracing\obj\Debug\net8.0-windows\ref\carracing.dll
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.Properties.Resources.resources
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.sourcelink.json
+D:\chuyên đề thực tập\carracing\carracing\bin\Debug\net8.0-windows\carracing.exe
+D:\chuyên đề thực tập\carracing\carracing\bin\Debug\net8.0-windows\carracing.deps.json
+D:\chuyên đề thực tập\carracing\carracing\bin\Debug\net8.0-windows\carracing.runtimeconfig.json
+D:\chuyên đề thực tập\carracing\carracing\bin\Debug\net8.0-windows\carracing.dll
+D:\chuyên đề thực tập\carracing\carracing\bin\Debug\net8.0-windows\carracing.pdb
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.Form1.resources
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.Properties.Resources.resources
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.GenerateResource.cache
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.GeneratedMSBuildEditorConfig.editorconfig
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.AssemblyInfoInputs.cache
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.AssemblyInfo.cs
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.CoreCompileInputs.cache
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.sourcelink.json
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.dll
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\refint\carracing.dll
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.pdb
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.genruntimeconfig.cache
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\ref\carracing.dll
+D:\chuyên đề thực tập\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level2.resources
+C:\Users\maith\Downloads\carracing\carracing\bin\Debug\net8.0-windows\carracing.exe
+C:\Users\maith\Downloads\carracing\carracing\bin\Debug\net8.0-windows\carracing.deps.json
+C:\Users\maith\Downloads\carracing\carracing\bin\Debug\net8.0-windows\carracing.runtimeconfig.json
+C:\Users\maith\Downloads\carracing\carracing\bin\Debug\net8.0-windows\carracing.dll
+C:\Users\maith\Downloads\carracing\carracing\bin\Debug\net8.0-windows\carracing.pdb
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.Form1.resources
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level2.resources
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.Properties.Resources.resources
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.GenerateResource.cache
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.AssemblyInfoInputs.cache
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.AssemblyInfo.cs
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.CoreCompileInputs.cache
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.sourcelink.json
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.dll
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\refint\carracing.dll
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.pdb
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.genruntimeconfig.cache
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\ref\carracing.dll
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level3.resources
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level4.resources
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\maith\Downloads\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.ResolveComReference.cache
+D:\carracing\carracing\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\carracing\carracing\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.csproj.ResolveComReference.cache
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level2.resources
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level3.resources
+D:\carracing\carracing\obj\Debug\net8.0-windows\carracing.Level4.resources
